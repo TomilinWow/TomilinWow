@@ -1,6 +1,7 @@
-## Hello 👋
 
-## My technology stack:
+
+## Hello 👋 
+## My technology stack
 
 <img align="right" alt="GIF" src="https://github.com/TomilinWow/TomilinWow/blob/main/cat-computer.gif?raw=true" width="400" height="320" />
 
@@ -30,5 +31,6 @@
 
 **Learning**
 
-[![Python](https://img.shields.io/badge/-Django-32cd32?style=flat-square&labelColor=black&logo=Django&logoColor=32cd32)](#)  [![Vue](https://img.shields.io/badge/-Vue.js-32475b?style=flat-square&labelColor=3fb27f&logo=Vue.js&logoColor=%232c3e50)](#)  [![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&labelColor=black&logo=Flask&logoColor=%232c3e50)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js&logoColor=3C873A)](#)  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat-square&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![React Badge](https://img.shields.io/badge/-express.js-green?style=flat-square&labelColor=black&logo=express&logoColor=green)](#)     [![React Badge](https://img.shields.io/badge/-mongodb-1d8433?style=flat-square&labelColor=black&logo=mongodb&logoColor=1d8433)](#)
+[![Python](https://img.shields.io/badge/-Django-32cd32?style=flat-square&labelColor=black&logo=Django&logoColor=32cd32)](#)  [![Vue](https://img.shields.io/badge/-Vue.js-32475b?style=flat-square&labelColor=3fb27f&logo=Vue.js&logoColor=%232c3e50)](#)  [![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&labelColor=black&logo=Flask&logoColor=%232c3e50)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js&logoColor=3C873A)](#)  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat-square&labelColor=black&logo=react&logoColor=61DBFB)](#)  
+[![React Badge](https://img.shields.io/badge/-express.js-green?style=flat-square&labelColor=black&logo=express&logoColor=green)](#)     [![React Badge](https://img.shields.io/badge/-mongodb-1d8433?style=flat-square&labelColor=black&logo=mongodb&logoColor=1d8433)](#)
 
