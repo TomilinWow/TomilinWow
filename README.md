@@ -3,7 +3,7 @@
 ## Hello 👋 
 ## My technology stack
 
-<img align="right" alt="GIF" src="https://github.com/TomilinWow/TomilinWow/blob/main/cat-computer.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/TomilinWow/TomilinWow/blob/main/cat-computer.gif?raw=true" width="498" height="498" />
 
 **Back-end**
 
