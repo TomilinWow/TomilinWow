@@ -17,7 +17,7 @@
 
 **Front-end**
 
-[![Vue](https://img.shields.io/badge/-Vue.js-32475b?style=flat-square&labelColor=3fb27f&logo=Vue.js&logoColor=%232c3e50)](#)  [![Javascript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Javascript Badge](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&labelColor=black&logo=HTML5&logoColor=%23E44D27)](#)  [![Javascript Badge](https://img.shields.io/badge/-CSS3-blue?style=flat-square&labelColor=black&logo=CSS3&logoColor=blue)](#)  
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat-square&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![React Badge](https://img.shields.io/badge/-Redux-764abc?style=flat-square&labelColor=black&logo=redux&logoColor=764abc)](#) [![Vue](https://img.shields.io/badge/-Vue.js-32475b?style=flat-square&labelColor=3fb27f&logo=Vue.js&logoColor=%232c3e50)](#)  [![Javascript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Javascript Badge](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&labelColor=black&logo=HTML5&logoColor=%23E44D27)](#)  [![Javascript Badge](https://img.shields.io/badge/-CSS3-blue?style=flat-square&labelColor=black&logo=CSS3&logoColor=blue)](#)  
 
 **Tools**
 
