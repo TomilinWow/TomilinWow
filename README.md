@@ -37,6 +37,5 @@
 
 **Learning**
 
-[![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&labelColor=black&logo=Flask&logoColor=%232c3e50)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js&logoColor=3C873A)](#)   [![React Badge](https://img.shields.io/badge/-express.js-green?style=flat-square&labelColor=black&logo=express&logoColor=green)](#)     [![React Badge](https://img.shields.io/badge/-mongodb-1d8433?style=flat-square&labelColor=black&logo=mongodb&logoColor=1d8433)](#)    [![React Badge](https://img.shields.io/badge/-TypeScript-2f74c0?style=flat-square&labelColor=black&logo=typescript&logoColor=2f74c0)](#)
-
+[![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&labelColor=black&logo=Flask&logoColor=%232c3e50)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js&logoColor=3C873A)](#)   [![React Badge](https://img.shields.io/badge/-express.js-green?style=flat-square&labelColor=black&logo=express&logoColor=green)](#) 
 
