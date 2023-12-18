@@ -7,7 +7,7 @@
 
 **Back-end**
 
-[![Python](https://img.shields.io/badge/-Python-ffff00?style=flat-square&labelColor=black&logo=python&logoColor=yellow)](#)  [![Python](https://img.shields.io/badge/-Django-32cd32?style=flat-square&labelColor=black&logo=Django&logoColor=32cd32)](#)  [![Python](https://img.shields.io/badge/-DRF-red?style=flat-square&labelColor=black&logo=Django&logoColor=red)](#) 
+[![Python](https://img.shields.io/badge/-Python-ffff00?style=flat-square&labelColor=black&logo=python&logoColor=yellow)](#)  [![Python](https://img.shields.io/badge/-Django-32cd32?style=flat-square&labelColor=black&logo=Django&logoColor=32cd32)](#)  [![Python](https://img.shields.io/badge/-DRF-red?style=flat-square&labelColor=black&logo=Django&logoColor=red)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js&logoColor=3C873A)](#)   [![React Badge](https://img.shields.io/badge/-express.js-green?style=flat-square&labelColor=black&logo=express&logoColor=green)](#) 
 
 
 **Databases**
@@ -34,8 +34,4 @@
 [![linux](https://img.shields.io/badge/-CSharp-36018d?style=flat-square&labelColor=986bd1&logo=csharp&logoColor=white)](#) [![linux](https://img.shields.io/badge/-cplusplus-005697?style=flat-square&labelColor=6295cb&logo=cplusplus&logoColor=white)](#)    [![linux](https://img.shields.io/badge/-Java-blue?style=flat-square&labelColor=red&logo=java&logoColor=white)](#) 
 [![linux](https://img.shields.io/badge/-PyQT5-3fc74f?style=flat-square&labelColor=f2f2f2&logo=QT&logoColor=3fc74f)](#)  [![linux](https://img.shields.io/badge/-Java_Swing-206998?style=flat-square&labelColor=db1b1a&logo=java&logoColor=white)](#)
 
-
-**Learning**
-
-[![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&labelColor=black&logo=Flask&logoColor=%232c3e50)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js&logoColor=3C873A)](#)   [![React Badge](https://img.shields.io/badge/-express.js-green?style=flat-square&labelColor=black&logo=express&logoColor=green)](#) 
 
